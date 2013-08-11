@@ -11,7 +11,8 @@ Guide personnel et donc partial (partiel) de Bayonne, ma ville de coeur
 Note : Ce petit guide n'a ni l'intention de remplacer le routard, ni le
 michelin. Il existe d'immenses quantités d'établissements qui valent bien tout
 ceux que je cite ; peut-être même qu'ils sont meilleurs, plus accueillants,
-qu'ils valent plus que le détour. C'est possible.
+qu'ils valent plus que le détour. C'est possible. Je ne les connais peut-être
+pas encore. Ce document est mouvant. Il peut évoluer.
 
 Mais ceux que je liste sur ce guide sont ceux qui **me** plaisent, ceux vers
 lesquels je reviens, souvent, tout le temps et toujours avec plaisir.
