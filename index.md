@@ -63,8 +63,12 @@ Si tu viens de ma part, en plus, elle te racontera tout et le reste.
 ### Les cafés Negro
 
 Vente de cafés en vrac, en grains ou moulus. Ça torréfie rue Poissonnerie depuis
-1930, et cette boutique a été décorée en 2012 du prix de "meilleur
-torréfacteur". Les cafés viennent du monde entier
+1930, et [cette boutique a été décorée en 2012 du prix de "meilleur
+torréfacteur"](https://boncafeparis.wordpress.com/2012/09/23/cafe-negro-a-bayonne-meilleur-torrefacteur-2012/).
+Les cafés viennent du monde entier et ça embaume la rue, franchement.
+
+L'établissement n'a pas vraiment de table ou de chaise, alors tu prendras ton
+café debout, à même la rue. C'est roots.
 
 ### Ramuntcho
 
