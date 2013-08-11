@@ -127,6 +127,7 @@ sens du commerce et de l'accueil qui font chaud au coeur. Son homme, Tonio,
 c'est lui qui fait la pâtisserie, les viennoiseries, et depuis peu... le pain.
 
 Si tu viens de ma part, en plus, elle te racontera tout et le reste.
+
 ----
 
 # La carte
