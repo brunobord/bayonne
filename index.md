@@ -1,0 +1,93 @@
+# Bayonne
+
+## Si tu aimes le chocolat
+
+### Visiter l'atelier du chocolat
+
+L'Atelier du Chocolat dispose de nombreuses boutiques dans toute la France (et
+je me suis laissé dire, même à l'étranger - Bruxelles, plus précisément - faut
+être gonflé pour aller à la conquête des Belges qui sont, faut-il le rappeler le
+peuple Gaulois le plus brave).
+
+Acheter du chocolat de chez Andrieu à Bayonne, c'est un peu "bof". D'autant que
+tous les chocolats qui s'étalent sous tes yeux, dans toutes les boutiques de
+France ou d'ailleurs viennent précisément des ateliers sis à Bayonne même, dans
+le quartier St Esprit.
+
+Du coup, le top, c'est d'aller visiter les Ateliers, et apprendre moult choses
+sur le chocolat, ses origines, son arrivée à Bayonne et sur la fabrication des
+friandises que tu auras l'insigne honneur de goûter ou d'acheter plus tard. On
+voit même par des grandes baies vitrée le laboratoire attenant et on assiste en
+direct au miracle de la transformation de cacao en truc qui se mange. Mention
+spéciale à la petite récréation pour les enfants, qui auront le plaisir de
+colorier avec une peinture alimentaire des petits motifs en chocolat ; c'est
+compris dans le prix de la visite.
+
+### Déguster le chocolat chaud chez Cazenave
+
+Cazenave, c'est dans la rue Port-Neuf, dans le Grand-Bayonne. C'est bien simple,
+il y a plus de chocolatier dans cette rue que n'importe où ailleurs.
+
+Cazenave, c'est une vitrine "grand-siècle", des tables, des chaises et des
+nappes délicieusement rétro, une clientèle d'habitué(e)s qui viennent déguster
+le meilleur chocolat chaud de Bayonne. Ils font *eux-même* leur chocolat, à
+partir de grains qu'ils torréfient à l'ancienne.
+
+On te sert le chocolat fondu avec juste ce qu'il faut de lait, des petits toasts
+beurrés, une coupelle de crème, un bon verre d'eau (le chocolat, ça assèche un
+peu) et un grand sourire.
+
+C'est un peu le coup de fusil au niveau du prix, disons que j'irai pas tous les
+jours, mais franchement, tes papilles me remercieront.
+
+## Tu aimes boire, manger, un peu tout
+
+### Les délices de Fanny
+
+Fanny, c'est devenue une amie. Elle a longtemps travaillé chez Ramuntcho avant
+de fonder sa propre boutique, située rue Pannecau. Du thé, des douceurs
+(viennoiseries et tartelettes à pleurer, et des gâteaux basques qui débordent de
+bonheur) et des très bons cafés. Prix imbattable (1 EUR la tasse) pour du café
+de très grand niveau. Et si tu lui demandes un cappucino, tu risque l'overdose
+de crème. Un grand choix de thés (Maison Dammann). Le midi, on mange la bonne
+assiette pour 10 EUR.
+
+Fanny, c'est une forme de gouaille Bayonnaise qu'on ne rencontre plus guère, un
+sens du commerce et de l'accueil qui font chaud au coeur. Son homme, Tonio,
+c'est lui qui fait la pâtisserie, les viennoiseries, et depuis peu... le pain.
+
+Si tu viens de ma part, en plus, elle te racontera tout et le reste.
+
+## Tu aimes le café
+
+### Les cafés Negro
+
+Vente de cafés en vrac, en grains ou moulus. Ça torréfie rue Poissonnerie depuis
+1930, et cette boutique a été décorée en 2012 du prix de "meilleur
+torréfacteur". Les cafés viennent du monde entier
+
+### Ramuntcho
+
+Même si ça fait un petit moment que j'y ai pas mis les pieds, les cafés
+Ramuntcho c'est un peu une institution Bayonnaise. On y trouve une carte de thés
+assez impressionnante, un bon choix de cafés de dégustation et y'a même quelques
+petites douceurs pour les petits creux.
+
+## Tu as faim
+
+### Le bar du marché
+
+Difficile de passer outre cet établissement. *L'amatchi* qui officie et dont le
+sourire ne disparaît jamais, une déco délirante, des clients avec une bonne
+bouille locale. La carte annonce *un steak frrrrrites* et une piperade à pleurer
+de bonheur. C'est **la** bonne adresse du midi, pour peu que tu t'y pointes
+assez tôt, parce que prise d'assaut avant 13h. Une amie, en contemplant son
+assiette a fait le plus beau résumé qui soit :
+
+> Ce que j'apprécie, c'est la cuisine qui ne te ment pas.
+
+----
+
+# La carte
+
+<script src="https://gist.github.com/brunobord/6206708.js"></script>
