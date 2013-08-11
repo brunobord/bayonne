@@ -17,3 +17,12 @@ Mais ceux que je liste sur ce guide sont ceux qui **me** plaisent, ceux vers
 lesquels je reviens, souvent, tout le temps et toujours avec plaisir.
 
 Ceux que je veux partager avec les amis.
+
+----
+
+Qu'à cela ne tienne... et si d'autres s'emparaient du concept et écrivaient
+**leur** guide pour **leur** ville et le faisaient partager à tous ?
+
+A priori, tu n'as besoin que d'un clavier (ou une souris) et tu peux publier les
+endroits charmants de par chez toi, ceux qui te plaisent et que tu aimes
+partager.
