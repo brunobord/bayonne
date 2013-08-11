@@ -86,6 +86,44 @@ assiette a fait le plus beau résumé qui soit :
 
 > Ce que j'apprécie, c'est la cuisine qui ne te ment pas.
 
+Des fois, on y chante.
+
+### Le Xurasko
+
+Encore plus près du marché des Halles que le BDM, ici on déguste sur le pouce,
+tapas et  assiettes bien goûtues. Une petite terrasse grignotée sur un coin de
+terrasse pour profiter du paysage, au loin, la vue sur le Petit.
+
+Pendant longtemps (quand j'habitais le centre ville), c'était ma cantine du
+vendredi, histoire de me sortir un peu de mon antre fétide. J'y ai passé de bons
+moments.
+
+## Tu as soif
+
+### Le Katie Daly's
+
+Pub Irlandais, dont le propriétaire est Irlandais (dit-on). Depuis peu, les
+serveuses ont retrouvé le délicieux accent qui fleure bon la Guinness et le
+cidre Strongbow. Super ambiance, très jeune, même en semaine. On y mange le
+midi, paraît-il très très bien, mais je t'avoue que je n'ai pas encore pris le
+temps d'y aller. C'est dans ma *TODO*.
+
+
+## Plein les mirettes
+
+Y'a des vues. Elle sont notées avec un cerle blanc pour les différencier des
+établissements où l'on mange et boit sur la carte.
+
+### Le haut de l'escalier du château-neuf
+
+Un beau point de vue sur le Petit-Bayonne et au loin, les hauteurs du Grand-
+Bayonne. Ici, on prend bien conscience de l'effet insulaire provoqué par la
+Nive. Tu as beau penser que c'est la même ville ici ou là-bas, c'est quand même
+un mur qui coupe en deux cette rive de l'Adour. D'ici, ton regard plonge sur la
+place Paul-Bert (que tous les Bayonnais appellent "Place St André", du nom de
+la grande église, sur la droite). Tu embrasses la rue Pannecau, aperçoit le
+début de la rue des Cordeliers. Plus loin, les remparts. On y est, là.
+
 ----
 
 # La carte
