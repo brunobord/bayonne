@@ -40,24 +40,6 @@ peu) et un grand sourire.
 C'est un peu le coup de fusil au niveau du prix, disons que j'irai pas tous les
 jours, mais franchement, tes papilles me remercieront.
 
-## Tu aimes boire, manger, un peu tout
-
-### Les délices de Fanny
-
-Fanny, c'est devenue une amie. Elle a longtemps travaillé chez Ramuntcho avant
-de fonder sa propre boutique, située rue Pannecau. Du thé, des douceurs
-(viennoiseries et tartelettes à pleurer, et des gâteaux basques qui débordent de
-bonheur) et des très bons cafés. Prix imbattable (1 EUR la tasse) pour du café
-de très grand niveau. Et si tu lui demandes un cappucino, tu risque l'overdose
-de crème. Un grand choix de thés (Maison Dammann). Le midi, on mange la bonne
-assiette pour 10 EUR.
-
-Fanny, c'est une forme de gouaille Bayonnaise qu'on ne rencontre plus guère, un
-sens du commerce et de l'accueil qui font chaud au coeur. Son homme, Tonio,
-c'est lui qui fait la pâtisserie, les viennoiseries, et depuis peu... le pain.
-
-Si tu viens de ma part, en plus, elle te racontera tout et le reste.
-
 ## Tu aimes le café
 
 ### Les cafés Negro
@@ -128,6 +110,23 @@ place Paul-Bert (que tous les Bayonnais appellent "Place St André", du nom de
 la grande église, sur la droite). Tu embrasses la rue Pannecau, aperçoit le
 début de la rue des Cordeliers. Plus loin, les remparts. On y est, là.
 
+## Tu aimes boire, manger, le café, l'ambiance, un peu tout
+
+### Les délices de Fanny
+
+Fanny, c'est devenue une amie. Elle a longtemps travaillé chez Ramuntcho avant
+de fonder sa propre boutique, située rue Pannecau. Du thé, des douceurs
+(viennoiseries et tartelettes à pleurer, et des gâteaux basques qui débordent de
+bonheur) et des très bons cafés. Prix imbattable (1 EUR la tasse) pour du café
+de très grand niveau. Et si tu lui demandes un cappucino, tu risque l'overdose
+de crème. Un grand choix de thés (Maison Dammann). Le midi, on mange la bonne
+assiette pour 10 EUR.
+
+Fanny, c'est une forme de gouaille Bayonnaise qu'on ne rencontre plus guère, un
+sens du commerce et de l'accueil qui font chaud au coeur. Son homme, Tonio,
+c'est lui qui fait la pâtisserie, les viennoiseries, et depuis peu... le pain.
+
+Si tu viens de ma part, en plus, elle te racontera tout et le reste.
 ----
 
 # La carte
