@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "tag": "miam,kawa,glou",
+        "name": "Les délices de Fanny",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4721894264221191,
+          43.489793926746245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tag": "miam",
+        "name": "L'atelier du chocolat",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4571905136108398,
+          43.49101596126747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chez Cazenave",
+        "tag": "glou",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4757674932479858,
+          43.49221656664559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tag": "kawa",
+        "name": "Café Negro",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4757326245307922,
+          43.48969079212815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tag": "kawa",
+        "name": "Cafés Ramuntcho",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4761054515838623,
+          43.4904983509378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tag": "miam",
+        "name": "Le bar du Marché",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4755851030349731,
+          43.48956236009339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tag": "miam",
+        "name": "Le Xurasko",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.475437581539154,
+          43.48976279178575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tag": "oeil",
+        "name": "Château-Neuf",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4705613255500793,
+          43.489788088942376
+        ]
+      }
+    }
+  ]
+}
