@@ -195,6 +195,36 @@
             "name": "Sushi Cube", 
             "marker-symbol": "restaurant"
          }
+      }, 
+      {
+         "geometry": {
+            "type": "Point", 
+            "coordinates": [
+               -1.4670342206954956, 
+               43.49463716358812
+            ]
+         }, 
+         "type": "Feature", 
+         "properties": {
+            "tag": "oeil", 
+            "name": "Cin\u00e9ma L'Atalante", 
+            "marker-symbol": "cinema"
+         }
+      }, 
+      {
+         "geometry": {
+            "type": "Point", 
+            "coordinates": [
+               -1.4713686704635618, 
+               43.49551859480752
+            ]
+         }, 
+         "type": "Feature", 
+         "properties": {
+            "tag": "oeil", 
+            "name": "L'Autre Cin\u00e9ma", 
+            "marker-symbol": "cinema"
+         }
       }
    ]
 }

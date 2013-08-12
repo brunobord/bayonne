@@ -216,9 +216,29 @@ c'est lui qui fait la pâtisserie, les viennoiseries, et depuis peu... le pain.
 
 Si tu viens de ma part, en plus, elle te racontera tout et le reste.
 
+### Le cinéma l'Atalante (et l'Autre Cinéma)
+
+> Si tu viens dans le quartier St-Esprit pour deux minutes, tu vas à la gare.
+> Pour deux ans, c'est la prison. Pour deux heures, c'est l'Atalante.
+
+C'est l'un des plus anciens (si ce n'est le plus ancien) cinéma d'Art et Essai
+d'Aquitaine. C'est aussi un poumon culturel. Salle de Cinéma dans laquelle on
+peut encore voir des films en 2D et en V.O., salle d'exposition photo (la
+collection change tous les mois), débats, soirées thématiques...
+
+L'Atalante, c'est aussi une Taverne peuplée de trognes et qui résonne encore de
+batailles endiablées à propos de la météo, du film qu'on a vu, de l'actualité.
+Le fait de pouvoir y boire des bières de qualité ou des cafés de qualité ou des
+sodas locaux y est sans doute pour beaucoup.
+
+On peut aussi manger en la Taverne, à des petits prix tous doux, pour peu qu'on
+s'y prenne assez tôt (ce n'est pas un restaurant, et on n'aura pas une
+révélation culinaire non plus). S'il en reste, le fromage de brebis y est
+toujours excellent : tu peux y prendre une assiette les yeux fermés.
+
 ----
 
-# La carte
+# Le plan { #plan }
 
 [▲ retour](#top)
 {: .no-underline }
