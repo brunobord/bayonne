@@ -220,10 +220,10 @@ Si tu viens de ma part, en plus, elle te racontera tout et le reste.
 > Si tu viens dans le quartier St-Esprit pour deux minutes, tu vas à la gare.
 > Pour deux ans, c'est la prison. Pour deux heures, c'est l'Atalante.
 
-C'est l'un des plus anciens (si ce n'est le plus ancien) cinéma d'Art et Essai
-d'Aquitaine. C'est aussi un poumon culturel. Salle de Cinéma dans laquelle on
-peut encore voir des films en 2D et en V.O., salle d'exposition photo (la
-collection change tous les mois), débats, soirées thématiques...
+C'est le plus ancien cinéma d'Aquitaine. C'est aussi un poumon culturel. Salle
+de Cinéma dans laquelle on peut encore voir des films en 2D et en V.O., salle
+d'exposition photo (la collection change tous les mois), débats, soirées
+thématiques...
 
 L'Atalante, c'est aussi une Taverne peuplée de trognes et qui résonne encore de
 batailles endiablées à propos de la météo, du film qu'on a vu, de l'actualité.
@@ -234,6 +234,16 @@ On peut aussi manger en la Taverne, à des petits prix tous doux, pour peu qu'on
 s'y prenne assez tôt (ce n'est pas un restaurant, et on n'aura pas une
 révélation culinaire non plus). S'il en reste, le fromage de brebis y est
 toujours excellent : tu peux y prendre une assiette les yeux fermés.
+
+Depuis quelques années, l'Atalante (géré par une association) a pris un virage :
+outre l'ouverture d'une seconde salle (intelligemment appelée *l'Autre Cinéma*),
+l'association envisage de quitter ses locaux historiques. À l'horizon 2014,
+l'Autre Cinéma prendrait le relais, abandonnant la Taverne de la rue Denis
+Etcheverry, et ses fantômes. Le projet indique que ces anciens locaux seraient
+tout de même intégrés aux "outils culturels de la municipalité". Je ne sais pas
+ce que ça cache.
+
+Il me manquera, ce plancher à bosses.
 
 ----
 
