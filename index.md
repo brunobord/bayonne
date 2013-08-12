@@ -1,4 +1,3 @@
-# Bayonne
 
 ## Si tu aimes le chocolat { #chocolat }
 
