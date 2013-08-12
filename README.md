@@ -3,7 +3,7 @@ Bayonne
 
 Guide personnel et donc partial (partiel) de Bayonne, ma ville de coeur
 
-* [Si tu ne veux que la carte](https://gist.github.com/brunobord/6206708.js)
+* [Si tu ne veux que la carte](https://gist.github.com/brunobord/6206708)
 * [Le texte se trouve ici](index.md)
 
 ----
