@@ -180,6 +180,21 @@
             "name": "Quai de Lesseps", 
             "marker-symbol": "circle-stroked"
          }
+      }, 
+      {
+         "geometry": {
+            "type": "Point", 
+            "coordinates": [
+               -1.4751023054122925, 
+               43.4910237448476
+            ]
+         }, 
+         "type": "Feature", 
+         "properties": {
+            "tag": "miam", 
+            "name": "Sushi Cube", 
+            "marker-symbol": "restaurant"
+         }
       }
    ]
 }

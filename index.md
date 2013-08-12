@@ -96,6 +96,22 @@ Pendant longtemps (quand j'habitais le centre ville), c'était ma cantine du
 vendredi, histoire de me sortir un peu de mon antre fétide. J'y ai passé de bons
 moments.
 
+### Sushi-Cube
+
+Un Sushi à Bayonne, c'est incongru, j'en conviens. Il existait quelques
+restaurants de Sushi à Biarritz... jusqu'à ces quelques dernières années où
+s'installait cette boutique noire et blanche. “*D'inspiration basque*”
+annonce-t-on. Si en effet on y retrouve des sushis basiques et classiques (mais
+faits avec un certain talent), on peut également y déguster des Sushis au Jambon
+de Bayonne, au fromage frais de Brebis, magret fumé, foie gras...
+
+Les portions ne sont peut-être pas gargantuesque mais concernant Sushi Cube, ce
+qui compte, ce n'est pas la quantité, mais la (très grande) qualité. Depuis peu,
+le menu est passé à 9.90 EUR.
+
+Ma petite préférence va au California Roll Chizu Moutarde au miel. Plus surprenant,
+tu meurs.
+
 ----
 
 ## Tu as soif { #glou }
