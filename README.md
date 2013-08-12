@@ -19,6 +19,11 @@ lesquels je reviens, souvent, tout le temps et toujours avec plaisir.
 
 Ceux que je veux partager avec les amis.
 
+Qu'on soit bien d'accord : cette page n'est pas sponsorisée, je n'ai pas
+d'actions dans les établissements cités, personne n'a eu besoin de me
+"corrompre" pour y figurer. D'ailleurs, à bon entendeur : n'essaie même pas, je
+suis trop cher pour toi.
+
 ----
 
 Qu'à cela ne tienne... et si d'autres s'emparaient du concept et écrivaient
