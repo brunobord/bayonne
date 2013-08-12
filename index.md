@@ -143,6 +143,19 @@ aperçoit un horizon vallonné, les Pyrénées, un bout du stade Jean Dauger, le
 parc au pied des murailles. Et à la lumière du soir, quand l'automne tombe, on
 découvre une façade enflammée qui fait face à l'océan. Au loin. Pas trop loin.
 
+### Le Stade Christian Belascain
+
+C'est une des surprises sur lesquelles j'ai aimé tomber pendant mes premières
+flâneries le long des murailles. Soudain, tu aperçois le haut d'un poteau.
+Tu t'approches du parapet, et tu vois que c'est une paire de poteaux de rugby,
+mais c'est illogique de les voir là. Si petits. Et tu comprends. Plus d'une 
+dizaine de mètres en contrebas, un terrain de rugby, hélas en synthétique.
+
+Parfois, on peut apercevoir des minots à l'entraînement. Parfois, c'est les
+pros. J'ai vu quelques matches là aussi. En 2000, le terrain était en "vraie
+herbe". Tout se perd, ma bonne dame.
+
+
 ----
 
 ## Tu aimes boire, manger, le café, l'ambiance, un peu tout { #chouchous }
