@@ -1,0 +1,12 @@
+.wrap {
+    margin: auto;
+    max-width: 960px;
+    padding: 0 15px;
+}
+nav {
+    margin-top: 1em;
+}
+footer {
+    color: #999;
+    font-size: 12px !important;
+}

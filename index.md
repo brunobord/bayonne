@@ -1,6 +1,6 @@
 # Bayonne
 
-## Si tu aimes le chocolat
+## Si tu aimes le chocolat { #chocolat }
 
 ### Visiter l'atelier du chocolat
 
@@ -40,7 +40,7 @@ peu) et un grand sourire.
 C'est un peu le coup de fusil au niveau du prix, disons que j'irai pas tous les
 jours, mais franchement, tes papilles me remercieront.
 
-## Tu aimes le café
+## Tu aimes le café { #cafe }
 
 ### Les cafés Negro
 
@@ -59,7 +59,7 @@ Ramuntcho c'est un peu une institution Bayonnaise. On y trouve une carte de thé
 assez impressionnante, un bon choix de cafés de dégustation et y'a même quelques
 petites douceurs pour les petits creux.
 
-## Tu as faim
+## Tu as faim { #miam }
 
 ### Le bar du marché
 
@@ -84,7 +84,7 @@ Pendant longtemps (quand j'habitais le centre ville), c'était ma cantine du
 vendredi, histoire de me sortir un peu de mon antre fétide. J'y ai passé de bons
 moments.
 
-## Tu as soif
+## Tu as soif { #glou }
 
 ### Le Katie Daly's
 
@@ -95,7 +95,7 @@ midi, paraît-il très très bien, mais je t'avoue que je n'ai pas encore pris l
 temps d'y aller. C'est dans ma *TODO*.
 
 
-## Plein les mirettes
+## Plein les mirettes { #oeil }
 
 Y'a des vues. Elle sont notées avec un cerle blanc pour les différencier des
 établissements où l'on mange et boit sur la carte.

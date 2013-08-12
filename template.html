@@ -6,30 +6,26 @@
         <title>Bayonne</title>
         <meta http-equiv='content-type' content='text/html; charset=utf-8' />
         <meta name='viewport' content='initial-scale=1.0 maximum-scale=1.0'>
-        <style>
-        body {
-            font:normal 14px/25px sans-serif;
-            max-width:700px;
-            margin:50px auto;
-            color:#333;
-        }
-        a {
-            color:blue;
-        }
-        h1 {
-            margin-top:40px;
-        }
-        img {
-            max-width:100%;
-        }
-        footer {
-        	color: #999;
-        	font: 12px !important;
-        }
-        </style>
+        <link rel="stylesheet" type="text/css" href="css/kube.min.css" />
+        <link rel="stylesheet" type="text/css" href="css/master.css" />
     </head>
-    <body>
+    <body class="wrap">
+
+	<div class="units-row">
+		<nav class="nav-pills">
+	    <ul>
+	        <li><a href="#chocolat">Chocolat</a></li>
+	        <li><a href="#cafe">Café</a></li>
+	        <li><a href="#miam">Manger</a></li>
+	        <li><a href="#glou">Boire</a></li>
+	        <li><a href="#oeil">Voir</a></li>
+	    </ul>
+		</nav>
+	</div>
+
+    	<div class="units-row">
     	{{ content }}
+    	</div>
 
     	<footer>
     		<hr>

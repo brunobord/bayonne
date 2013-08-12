@@ -9,7 +9,7 @@ from jinja2 import Template
 __version__ = '0.1'
 
 text = codecs.open("index.md", mode="r", encoding="utf-8").read()
-html = markdown.markdown(text, extensions=['headerid'])
+html = markdown.markdown(text, extensions=['attr_list', 'headerid(forceid=False)'])
 
 template = Template(codecs.open('template.html', mode='r', encoding="utf-8").read())
 
