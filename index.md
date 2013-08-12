@@ -2,6 +2,9 @@
 
 ## Si tu aimes le chocolat { #chocolat }
 
+[▲ retour](#top)
+{: .no-underline }
+
 ### Visiter l'atelier du chocolat
 
 L'Atelier du Chocolat dispose de nombreuses boutiques dans toute la France (et
@@ -40,7 +43,12 @@ peu) et un grand sourire.
 C'est un peu le coup de fusil au niveau du prix, disons que j'irai pas tous les
 jours, mais franchement, tes papilles me remercieront.
 
+----
+
 ## Tu aimes le café { #cafe }
+
+[▲ retour](#top)
+{: .no-underline }
 
 ### Les cafés Negro
 
@@ -59,7 +67,12 @@ Ramuntcho c'est un peu une institution Bayonnaise. On y trouve une carte de thé
 assez impressionnante, un bon choix de cafés de dégustation et y'a même quelques
 petites douceurs pour les petits creux.
 
+----
+
 ## Tu as faim { #miam }
+
+[▲ retour](#top)
+{: .no-underline }
 
 ### Le bar du marché
 
@@ -84,7 +97,12 @@ Pendant longtemps (quand j'habitais le centre ville), c'était ma cantine du
 vendredi, histoire de me sortir un peu de mon antre fétide. J'y ai passé de bons
 moments.
 
+----
+
 ## Tu as soif { #glou }
+
+[▲ retour](#top)
+{: .no-underline }
 
 ### Le Katie Daly's
 
@@ -94,8 +112,12 @@ cidre Strongbow. Super ambiance, très jeune, même en semaine. On y mange le
 midi, paraît-il très très bien, mais je t'avoue que je n'ai pas encore pris le
 temps d'y aller. C'est dans ma *TODO*.
 
+----
 
 ## Plein les mirettes { #oeil }
+
+[▲ retour](#top)
+{: .no-underline }
 
 Y'a des vues. Elle sont notées avec un cerle blanc pour les différencier des
 établissements où l'on mange et boit sur la carte.
@@ -110,7 +132,18 @@ place Paul-Bert (que tous les Bayonnais appellent "Place St André", du nom de
 la grande église, sur la droite). Tu embrasses la rue Pannecau, aperçoit le
 début de la rue des Cordeliers. Plus loin, les remparts. On y est, là.
 
-## Tu aimes boire, manger, le café, l'ambiance, un peu tout { #chouchou }
+----
+
+## Tu aimes boire, manger, le café, l'ambiance, un peu tout { #chouchous }
+
+[▲ retour](#top)
+{: .no-underline }
+
+> Là, c'est mes chouchous. Qu'on soit une fois de plus bien clairs : je n'ai pas
+> d'action, je n'ai pas été payé pour parler de ces adresses. Et d'ailleurs
+> pour ceux qui seraient tentés, ça n'est même pas la peine d'essayer : je suis
+> trop cher pour toi.
+> -- Bruno Bord
 
 ### Les délices de Fanny
 
@@ -131,5 +164,8 @@ Si tu viens de ma part, en plus, elle te racontera tout et le reste.
 ----
 
 # La carte
+
+[▲ retour](#top)
+{: .no-underline }
 
 <script src="https://gist.github.com/brunobord/6206708.js"></script>

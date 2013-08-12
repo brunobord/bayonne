@@ -27,3 +27,12 @@ Qu'à cela ne tienne... et si d'autres s'emparaient du concept et écrivaient
 A priori, tu n'as besoin que d'un clavier (ou une souris) et tu peux publier les
 endroits charmants de par chez toi, ceux qui te plaisent et que tu aimes
 partager.
+
+----
+
+## Colophon
+
+* [Kube](http://imperavi.com/kube/) pour les gabarits et les CSS de base,
+* [Maki](http://www.mapbox.com/maki/) pour les icônes,
+* [Mapbox via Github](http://www.mapbox.com/blog/github-mapbox-maps/) pour les cartes,
+
