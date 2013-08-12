@@ -110,7 +110,7 @@ place Paul-Bert (que tous les Bayonnais appellent "Place St André", du nom de
 la grande église, sur la droite). Tu embrasses la rue Pannecau, aperçoit le
 début de la rue des Cordeliers. Plus loin, les remparts. On y est, là.
 
-## Tu aimes boire, manger, le café, l'ambiance, un peu tout
+## Tu aimes boire, manger, le café, l'ambiance, un peu tout { #chouchou }
 
 ### Les délices de Fanny
 
