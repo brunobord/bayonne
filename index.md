@@ -155,6 +155,22 @@ Parfois, on peut apercevoir des minots à l'entraînement. Parfois, c'est les
 pros. J'ai vu quelques matches là aussi. En 2000, le terrain était en "vraie
 herbe". Tout se perd, ma bonne dame.
 
+### Le quai de Lesseps
+
+Pas besoin de prendre trop de hauteur pour embrasser la ville. En fait, à peine
+à quelques mètres au-delà de la gare, on a **ZE** belle vue de Bayonne (Grand et
+Petit). La plupart des arrivants descendent du train, hument l'air, essaient
+de se repérer et fondent vers le Pont St-Esprit. C'est vrai que c'est le chemin
+le plus court. C'est vrai aussi qu'on voit assez bien le Grand Bayonne depuis
+ce pont.
+
+Pourtant il suffirait de faire un petit pas de côté, juste avant la traversée,
+de s'approcher de la péniche la Djébelle qui est amarrée sur l'Adour pour choper
+un point de vue imprenable. L'horizon se déroule devant toi : le Petit Bayonne,
+Le Pont St-Esprit, la Nive, le Réduit, le Grand Bayonne, les flèches de la Cathédrale... Tout y est,
+tu n'as plus qu'à prendre une belle photo (forcément originale par rapport aux
+milliers qui se seront contentés de la vue depuis le Pont) et tu peux reprendre
+ta route.
 
 ----
 
