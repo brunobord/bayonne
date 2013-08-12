@@ -20,3 +20,11 @@ def download():
     data = json.loads(req.text)
     with codecs.open('map.geojson', mode="w", encoding="utf-8") as geojson:
         geojson.write(json.dumps(data, indent=3))
+
+
+@task
+def all():
+    "Do the whole shebang"
+    build()
+    download()
+
