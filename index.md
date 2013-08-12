@@ -132,6 +132,17 @@ place Paul-Bert (que tous les Bayonnais appellent "Place St André", du nom de
 la grande église, sur la droite). Tu embrasses la rue Pannecau, aperçoit le
 début de la rue des Cordeliers. Plus loin, les remparts. On y est, là.
 
+### Les remparts Lachepaillet
+
+On peut quasiment faire le tour de Bayonne par ses remparts. Je te conseille
+d'ailleurs la promenade, elle est très agréable et permet d'avoir un aperçu
+de l'extérieur de la ville, tout en repérant les différents quartiers.
+
+Du haut des remparts Lachepaillet, **tout en étant extrêmement prudent**, on
+aperçoit un horizon vallonné, les Pyrénées, un bout du stade Jean Dauger, le
+parc au pied des murailles. Et à la lumière du soir, quand l'automne tombe, on
+découvre une façade enflammée qui fait face à l'océan. Au loin. Pas trop loin.
+
 ----
 
 ## Tu aimes boire, manger, le café, l'ambiance, un peu tout { #chouchous }
