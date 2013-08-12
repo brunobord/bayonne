@@ -108,8 +108,8 @@ Les portions ne sont peut-être pas gargantuesque mais concernant Sushi Cube, ce
 qui compte, ce n'est pas la quantité, mais la (très grande) qualité. Depuis peu,
 le menu est passé à 9.90 EUR.
 
-Ma petite préférence va au California Roll Chizu Moutarde au miel. Plus surprenant,
-tu meurs.
+Ma petite préférence va au California Roll Chizu Moutarde au miel. Plus
+surprenant, tu meurs.
 
 ----
 
@@ -181,10 +181,10 @@ ce pont.
 Pourtant il suffirait de faire un petit pas de côté, juste avant la traversée,
 de s'approcher de la péniche la Djébelle qui est amarrée sur l'Adour pour choper
 un point de vue imprenable. L'horizon se déroule devant toi : le Petit Bayonne,
-Le Pont St-Esprit, la Nive, le Réduit, le Grand Bayonne, les flèches de la Cathédrale... Tout y est,
-tu n'as plus qu'à prendre une belle photo (forcément originale par rapport aux
-milliers qui se seront contentés de la vue depuis le Pont) et tu peux reprendre
-ta route.
+Le Pont St-Esprit, la Nive, le Réduit, le Grand Bayonne, les flèches de la
+Cathédrale... Tout y est, tu n'as plus qu'à prendre une belle photo (forcément
+originale par rapport aux milliers qui se seront contentés de la vue depuis le
+Pont) et tu peux reprendre ta route.
 
 ----
 
