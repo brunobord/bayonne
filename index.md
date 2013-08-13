@@ -133,7 +133,7 @@ temps d'y aller. C'est dans ma *TODO*.
 [▲ retour](#top)
 {: .no-underline }
 
-Y'a des vues. Elle sont notées avec un cerle blanc pour les différencier des
+Y'a des vues. Elle sont notées avec un cercle blanc pour les différencier des
 établissements où l'on mange et boit sur la carte.
 
 ### Le haut de l'escalier du château-neuf
