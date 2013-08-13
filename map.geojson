@@ -225,6 +225,21 @@
             "name": "L'Autre Cin\u00e9ma", 
             "marker-symbol": "cinema"
          }
+      }, 
+      {
+         "geometry": {
+            "type": "Point", 
+            "coordinates": [
+               -1.4757218956947327, 
+               43.49030765127705
+            ]
+         }, 
+         "type": "Feature", 
+         "properties": {
+            "tag": "kawa", 
+            "name": "Le Belzunce", 
+            "marker-symbol": "cafe"
+         }
       }
    ]
 }

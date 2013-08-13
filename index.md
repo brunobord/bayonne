@@ -65,6 +65,16 @@ Ramuntcho c'est un peu une institution Bayonnaise. On y trouve une carte de thé
 assez impressionnante, un bon choix de cafés de dégustation et y'a même quelques
 petites douceurs pour les petits creux.
 
+### Le Belzunce
+
+Le café y est tout à fait correct, et cet établissement de la rue de la Salie
+dispose d'une carte de thés assez sympathique. Mais ce qui améliore encore plus
+la dégustation, c'est l'arrière-cour, à ciel ouvert, touchant une sublime
+cage d'escalier. Très agréable en saison.
+
+On y mange aussi des petites douceurs qui valent bien le déplacement. Le midi,
+des plats assez goûtus.
+
 ----
 
 ## Tu as faim { #miam }
