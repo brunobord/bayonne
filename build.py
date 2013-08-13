@@ -6,7 +6,7 @@ import datetime
 import markdown
 from jinja2 import Template
 
-__version__ = '0.1'
+__version__ = '1.0'
 
 text = codecs.open("index.md", mode="r", encoding="utf-8").read()
 html = markdown.markdown(text, extensions=['attr_list', 'headerid(forceid=False)'])
