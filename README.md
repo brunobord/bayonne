@@ -40,4 +40,5 @@ partager.
 * [Kube](http://imperavi.com/kube/) pour les gabarits et les CSS de base,
 * [Maki](http://www.mapbox.com/maki/) pour les icônes,
 * [Mapbox via Github](http://www.mapbox.com/blog/github-mapbox-maps/) pour les cartes,
+* Pour les éditer plus facilement, j'utilise [geojson.io](http://geojson.io/)
 
