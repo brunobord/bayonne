@@ -121,6 +121,23 @@ le menu est passé à 9.90 EUR.
 Ma petite préférence va au California Roll Chizu Moutarde au miel. Plus
 surprenant, tu meurs.
 
+# Chez Laffite
+
+Dans notre maison, nous avons une belle boîte, remplie de conserves, de bocaux
+aux noms évocateurs. Pâtés et foie gras, cèpes dans leur huile, confits,
+terrines de cou de canard... Cette boîte est bien planquée, parce que tout son
+intérêt, c'est de l'oublier. L'oublier pour, un jour, se dire : tiens ? Si on
+regardait ce qu'on a comme trésor dans *la boîte* ? Et en redécouvrant notre
+butin, on pille dedans pour se faire un petit plaisir gustatif. Jusqu'à ce
+que la boîte soit vide. Alors on repart rue Lormand, faire le plein.
+
+Toutes ces petites attentions laissées par nos "nous du passé" pour nos "nous
+du futur" proviennent de cette échoppe sans chichi, spécialistes des trucs gras
+et bien goûtus à souhaits.
+
+“Foie gras et gastronomie Landaise” indique l'enseigne. Qu'importe le bocal,
+pourvu qu'on ait les papilles en éveil.
+
 ----
 
 ## Tu as soif { #glou }

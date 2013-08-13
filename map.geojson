@@ -255,6 +255,17 @@
             "name": "la Plaine d'Ansot", 
             "marker-symbol": "circle-stroked"
          }
+      }, 
+      {
+         "geometry": {
+            "type": "Point", 
+            "coordinates": [
+               -1.4750057458877563, 
+               43.49215235334777
+            ]
+         }, 
+         "type": "Feature", 
+         "properties": {}
       }
    ]
 }
