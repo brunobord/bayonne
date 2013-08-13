@@ -240,6 +240,21 @@
             "name": "Le Belzunce", 
             "marker-symbol": "cafe"
          }
+      }, 
+      {
+         "geometry": {
+            "type": "Point", 
+            "coordinates": [
+               -1.4718675613403318, 
+               43.477291949713496
+            ]
+         }, 
+         "type": "Feature", 
+         "properties": {
+            "tag": "oeil", 
+            "name": "la Plaine d'Ansot", 
+            "marker-symbol": "circle-stroked"
+         }
       }
    ]
 }

@@ -196,6 +196,23 @@ Cathédrale... Tout y est, tu n'as plus qu'à prendre une belle photo (forcémen
 originale par rapport aux milliers qui se seront contentés de la vue depuis le
 Pont) et tu peux reprendre ta route.
 
+### La plaine d'Ansot
+
+On se gare au parking de "La Floride", à deux pas de la rue des Basques (oui, on
+ne se refuse rien, l'endroit a carrément pris le nom d'un état des USA), on
+traverse une petite passerelle piétonne et en quelques minutes, on se trouve en
+pleine forêt, en bordure de Nive. Un petit parc naturel, où les rumeurs de la
+ville sont comme étouffées par la riche végétation et la faune diverse. Avec
+un peu de chance, on peut y apercevoir un chevreuil. Depuis une cabane en bois,
+et si on pense à prendre une paire de jumelles ou une longue-vue, on peut y voir
+de nombreux oiseaux sauvages, dans un cadre protégé.
+
+Hormis le parcours qui entre en forêt, dans les jours qui suivent les pluies et
+le rendent assez boueux, tout est accessible aux fauteuils et poussettes, en
+toutes saisons.
+
+Un vrai ballon d'oxygène à un jet de pierre du centre-ville.
+
 ----
 
 ## Tu aimes boire, manger, le café, l'ambiance, un peu tout { #chouchous }
