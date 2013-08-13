@@ -265,7 +265,11 @@
             ]
          }, 
          "type": "Feature", 
-         "properties": {}
+         "properties": {
+            "tag": "miam", 
+            "name": "Laffite", 
+            "marker-symbol": "restaurant"
+         }
       }
    ]
 }
