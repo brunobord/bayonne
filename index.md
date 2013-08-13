@@ -230,6 +230,21 @@ toutes saisons.
 
 Un vrai ballon d'oxygène à un jet de pierre du centre-ville.
 
+### La place Lacarre
+
+C'est un petit bijou. Celui-ci, je ne le fais pas figurer sur le plan, même s'il
+est évident que quelqu'un d'un peu dégourdi peut la trouver sur une carte de 
+Bayonne.
+
+Si tu en as le courage et l'envie, n'essaie pas de la trouver, ne force pas la
+main du destin. Essaie donc de tomber dessus par hasard, de trébucher vers cette
+ruelle invisible pour le touriste moyen, de déboucher sur cette enceinte
+improbable, de rester soufflé par l'esthétique asymétrique des fenêtres, les
+couleurs... et le calme, la sérénité presque palpable qui s'en dégage.
+
+Prends le temps. Assieds-toi sur le banc. Attends. Et laisse cette place dans
+l'état dans lequel tu l'as trouvée.
+
 ----
 
 ## Tu aimes boire, manger, le café, l'ambiance, un peu tout { #chouchous }
