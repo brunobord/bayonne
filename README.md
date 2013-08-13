@@ -41,4 +41,4 @@ partager.
 * [Maki](http://www.mapbox.com/maki/) pour les icônes,
 * [Mapbox via Github](http://www.mapbox.com/blog/github-mapbox-maps/) pour les cartes,
 * Pour les éditer plus facilement, j'utilise [geojson.io](http://geojson.io/)
-
+* La bibliothèque [Python Markdown](http://pythonhosted.org/Markdown/) pour le rendu HTML. Y'a des extensions vraiment géniales
