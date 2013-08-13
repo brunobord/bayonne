@@ -28,7 +28,7 @@ compris dans le prix de la visite.
 ### Déguster le chocolat chaud chez Cazenave
 
 Cazenave, c'est dans la rue Port-Neuf, dans le Grand-Bayonne. C'est bien simple,
-il y a plus de chocolatier dans cette rue que n'importe où ailleurs.
+il y a plus de chocolatiers dans cette rue que n'importe où ailleurs.
 
 Cazenave, c'est une vitrine "grand-siècle", des tables, des chaises et des
 nappes délicieusement rétro, une clientèle d'habitué(e)s qui viennent déguster
@@ -98,7 +98,7 @@ Des fois, on y chante.
 ### Le Xurasko
 
 Encore plus près du marché des Halles que le BDM, ici on déguste sur le pouce,
-tapas et  assiettes bien goûtues. Une petite terrasse grignotée sur un coin de
+tapas et assiettes bien goûtues. Une petite terrasse grignotée sur un coin de
 terrasse pour profiter du paysage, au loin, la vue sur le Petit.
 
 Pendant longtemps (quand j'habitais le centre ville), c'était ma cantine du
@@ -114,14 +114,14 @@ annonce-t-on. Si en effet on y retrouve des sushis basiques et classiques (mais
 faits avec un certain talent), on peut également y déguster des Sushis au Jambon
 de Bayonne, au fromage frais de Brebis, magret fumé, foie gras...
 
-Les portions ne sont peut-être pas gargantuesque mais concernant Sushi Cube, ce
+Les portions ne sont peut-être pas gargantuesques mais concernant Sushi Cube, ce
 qui compte, ce n'est pas la quantité, mais la (très grande) qualité. Depuis peu,
 le menu est passé à 9.90 EUR.
 
 Ma petite préférence va au California Roll Chizu Moutarde au miel. Plus
 surprenant, tu meurs.
 
-# Chez Laffite
+# Laffite
 
 Dans notre maison, nous avons une belle boîte, remplie de conserves, de bocaux
 aux noms évocateurs. Pâtés et foie gras, cèpes dans leur huile, confits,
@@ -131,9 +131,9 @@ regardait ce qu'on a comme trésor dans *la boîte* ? Et en redécouvrant notre
 butin, on pille dedans pour se faire un petit plaisir gustatif. Jusqu'à ce
 que la boîte soit vide. Alors on repart rue Lormand, faire le plein.
 
-Toutes ces petites attentions laissées par nos "nous du passé" pour nos "nous
-du futur" proviennent de cette échoppe sans chichi, spécialistes des trucs gras
-et bien goûtus à souhaits.
+Toutes ces petites attentions laissées par nos "nous du passé" à destination de
+nos "nous du futur" proviennent de cette échoppe sans chichi, spécialistes des
+trucs gras et bien goûtus à souhaits.
 
 “Foie gras et gastronomie Landaise” indique l'enseigne. Qu'importe le bocal,
 pourvu qu'on ait les papilles en éveil.
@@ -161,9 +161,10 @@ temps d'y aller. C'est dans ma *TODO*.
 {: .no-underline }
 
 Y'a des vues. Elle sont notées avec un cercle blanc pour les différencier des
-établissements où l'on mange et boit sur la carte.
+établissements où l'on mange et boit sur la carte. J'attends que le jeu d'icônes
+"Maki" me permette de représenter un "Point de vue".
 
-### Le haut de l'escalier du château-neuf
+### Le haut de l'escalier du Château-Neuf
 
 Un beau point de vue sur le Petit-Bayonne et au loin, les hauteurs du Grand-
 Bayonne. Ici, on prend bien conscience de l'effet insulaire provoqué par la
@@ -171,14 +172,16 @@ Nive. Tu as beau penser que c'est la même ville ici ou là-bas, c'est quand mê
 un mur qui coupe en deux cette rive de l'Adour. D'ici, ton regard plonge sur la
 place Paul-Bert (que tous les Bayonnais appellent "Place St André", du nom de
 la grande église, sur la droite). Tu embrasses la rue Pannecau, aperçoit le
-début de la rue des Cordeliers. Plus loin, les remparts. On y est, là.
+début de la rue des Cordeliers. Plus loin, les remparts.
+
+On y est, là.
 
 ### Les deux rives de la Nive
 
 Ayant habité 6 ans dans le Petit Bayonne, il m'est arrivé de traverser les ponts
 par tous les temps, toutes les heures du jour et de la nuit. Cette vue m'a
 toujours époustouflé. Les matins brumeux où l'on ne voit pas le bout du pont,
-les après-midi qui frappent la rive Est d'un  soleil de plomb, les lueurs de
+les après-midi qui frappent la rive Est d'un soleil de plomb, les lueurs de
 l'aube sur les volets multicolores. Tout est de gingois, de traviole. La Nive
 est tantôt calme, tantôt torrentielle. Selon les marées, elle use les piles des
 ponts dans un sens, puis dans l'autre.
@@ -264,11 +267,10 @@ l'état dans lequel tu l'as trouvée.
 [▲ retour](#top)
 {: .no-underline }
 
-> Là, c'est mes chouchous. Qu'on soit une fois de plus bien clairs : je n'ai pas
-> d'action, je n'ai pas été payé pour parler de ces adresses. Et d'ailleurs
-> pour ceux qui seraient tentés, ça n'est même pas la peine d'essayer : je suis
-> trop cher pour toi.
-> -- Bruno Bord
+Là, c'est mes chouchous. Qu'on soit une fois de plus bien clairs : je n'ai pas
+d'action, je n'ai pas été payé pour parler de ces adresses. Et d'ailleurs
+pour ceux qui seraient tentés, ça n'est même pas la peine d'essayer : je suis
+trop cher pour toi.
 
 ### Les délices de Fanny
 
