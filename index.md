@@ -173,6 +173,18 @@ place Paul-Bert (que tous les Bayonnais appellent "Place St André", du nom de
 la grande église, sur la droite). Tu embrasses la rue Pannecau, aperçoit le
 début de la rue des Cordeliers. Plus loin, les remparts. On y est, là.
 
+### Les deux rives de la Nive
+
+Ayant habité 6 ans dans le Petit Bayonne, il m'est arrivé de traverser les ponts
+par tous les temps, toutes les heures du jour et de la nuit. Cette vue m'a
+toujours époustouflé. Les matins brumeux où l'on ne voit pas le bout du pont,
+les après-midi qui frappent la rive Est d'un  soleil de plomb, les lueurs de
+l'aube sur les volets multicolores. Tout est de gingois, de traviole. La Nive
+est tantôt calme, tantôt torrentielle. Selon les marées, elle use les piles des
+ponts dans un sens, puis dans l'autre.
+
+Je ne m'en lasserai jamais.
+
 ### Les remparts Lachepaillet
 
 On peut quasiment faire le tour de Bayonne par ses remparts. Je te conseille

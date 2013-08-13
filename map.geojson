@@ -270,6 +270,36 @@
             "name": "Laffite", 
             "marker-symbol": "restaurant"
          }
+      }, 
+      {
+         "geometry": {
+            "type": "Point", 
+            "coordinates": [
+               -1.4737021923065186, 
+               43.49250260686987
+            ]
+         }, 
+         "type": "Feature", 
+         "properties": {
+            "tag": "oeil", 
+            "name": "Point de vue Nive", 
+            "marker-symbol": "circle-stroked"
+         }
+      }, 
+      {
+         "geometry": {
+            "type": "Point", 
+            "coordinates": [
+               -1.4747965335845947, 
+               43.48794136866473
+            ]
+         }, 
+         "type": "Feature", 
+         "properties": {
+            "tag": "oeil", 
+            "name": "Point de vue Nive", 
+            "marker-symbol": "circle-stroked"
+         }
       }
    ]
 }
