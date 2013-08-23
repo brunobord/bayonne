@@ -4,7 +4,7 @@ import codecs
 import json
 
 import requests
-from fabric.api import local, task
+from fabric.api import local, task, run, cd
 
 
 @task
@@ -23,8 +23,15 @@ def download():
 
 
 @task
+def update():
+    "Update the website"
+    with cd('vhosts/jehaisleprintemps/bayonne/'):
+        run('git pull')
+
+
+@task
 def all():
     "Do the whole shebang"
     build()
     download()
-
+    update()
