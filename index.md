@@ -176,8 +176,7 @@ temps d'y aller. C'est dans ma *TODO*.
 {: .no-underline }
 
 Y'a des vues. Elle sont notées avec un cercle blanc pour les différencier des
-établissements où l'on mange et boit sur la carte. J'attends que le jeu d'icônes
-"Maki" me permette de représenter un "Point de vue".
+établissements où l'on mange et boit sur la carte. J'attends que le jeu d'icônes "Maki" me permette de représenter un "Point de vue".
 
 ### Le haut de l'escalier du Château-Neuf
 
@@ -259,6 +258,12 @@ le rendent assez boueux, tout est accessible aux fauteuils et poussettes, en
 toutes saisons.
 
 Un vrai ballon d'oxygène à un jet de pierre du centre-ville.
+
+### Le lavoir de St Esprit
+
+Très bien dissimulé derrière une rue assez austère, des bâtiments en assez mauvais état (pour ne pas dire au délabrement passablement avancé), on aperçoit un petit lavoir à l'ancienne, encore utilisable (et apparemment utilisé, si on en croit les linges qui sèchent parfois sur les fils non loin).
+
+C'est assez incongru de trouver dans une ville comme Bayonne cette marque du passé (sans pour autant être préhistorique, hein). À noter non loin, un chemin au nom évocateur : *Oelh de la Houn*. Bayonne ne renie pas ses racines gasconnes. Y'a une jolie vue sur la Rhune, un peu en douce, comme si on avait découpé une lucarne pour aller la voir.
 
 ### La place Lacarre
 

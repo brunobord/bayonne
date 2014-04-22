@@ -315,6 +315,21 @@
             "name": "Cidrerie Ttipia", 
             "marker-symbol": "restaurant"
          }
+      }, 
+      {
+         "geometry": {
+            "type": "Point", 
+            "coordinates": [
+               -1.467871069908142, 
+               43.49877180130787
+            ]
+         }, 
+         "type": "Feature", 
+         "properties": {
+            "tag": "oeil", 
+            "name": "Lavoir de St Esprit", 
+            "marker-symbol": "circle-stroked"
+         }
       }
    ]
 }
