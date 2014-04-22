@@ -300,6 +300,21 @@
             "name": "Point de vue Nive", 
             "marker-symbol": "circle-stroked"
          }
+      }, 
+      {
+         "geometry": {
+            "type": "Point", 
+            "coordinates": [
+               -1.4730772376060486, 
+               43.48928408974788
+            ]
+         }, 
+         "type": "Feature", 
+         "properties": {
+            "tag": "miam", 
+            "name": "Cidrerie Ttipia", 
+            "marker-symbol": "restaurant"
+         }
       }
    ]
 }
