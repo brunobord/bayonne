@@ -121,7 +121,7 @@ le menu est passé à 9.90 EUR.
 Ma petite préférence va au California Roll Chizu Moutarde au miel. Plus
 surprenant, tu meurs.
 
-# Laffite
+### Laffite
 
 Dans notre maison, nous avons une belle boîte, remplie de conserves, de bocaux
 aux noms évocateurs. Pâtés et foie gras, cèpes dans leur huile, confits,
@@ -137,6 +137,21 @@ trucs gras et bien goûtus à souhaits.
 
 “Foie gras et gastronomie Landaise” indique l'enseigne. Qu'importe le bocal,
 pourvu qu'on ait les papilles en éveil.
+
+### Cidrerie Ttipia
+
+Normalement, au Pays Basque, la bonne période pour goûter le cidre basque, c'est en février. À mon humble avis, le cidre basque n'a pas vraiment de meilleure période pour être bu, tellement il ressemble à une arme chimique de destruction massive ou un breuvage dont l'usage ne devrait théoriquement pas dépasser celui du laxatif à usage sous ordonnance médicale.
+
+Chacun ses goûts, on dira.
+
+Mais la cidrerie Ttipia a tout de même la bonne idée de ne pas faire que servir du cidre. C'est un excellent restaurant du midi, sur le pouce, avec une formule au très bon rapport qualité-prix. Et le soir, c'est le menu **ultra-traditionnel**, invariable, indéboulonnable:
+
+- Omelette à la morue,
+- Morue au piment doux,
+- Entrecôte épaisse **comme ça**,
+- Pâte de coing et noix,
+
+Avec, bien sûr, le cidre est à volonté. Pour ceux qui veulent.
 
 ----
 
